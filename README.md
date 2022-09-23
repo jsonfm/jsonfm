@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">A passionate web developer and data scientist from Ecuador 🇪🇨</h3>
 <p>
-I enjoy solving problems, fixing bugs, finding interesting information between the data. I'm a fervient devotee of tech and I believe programming should be one of the basics skills of every person on our societies. I have worked on differents projects related with web development, IoT and AI. I have passed by private and public sector of my country. I'm a curious person, I love knowledge.And also I'm intersted on in entrepreneurship.
+I enjoy solving problems, fixing bugs, finding interesting information between the data. I'm a fervient devotee of tech and I believe programming should be one of the basics skills of every person on our societies. I have worked on differents projects related with web development, IoT and AI. I have passed by private and public sector of my country. I'm a curious person, I love knowledge. And also I'm intersted on in entrepreneurship. 🔥
 </p>
 
 <h3 align="left">Follow me:</h3>
