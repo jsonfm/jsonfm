@@ -14,7 +14,5 @@ I am a **Software Developer and Data Scientist** with expertise in **software de
 </a>  
 
 ### 📊 GitHub Stats  
-![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsonfm&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonfm&layout=compact&theme=radical)
 
