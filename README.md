@@ -12,7 +12,3 @@ I am a **Software Developer and Data Scientist** with expertise in **software de
 <a href="https://linkedin.com/in/jason-francisco-macas-mora-47b938141" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="40"/>
 </a>  
-
-### 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonfm&layout=compact&theme=radical)
-
