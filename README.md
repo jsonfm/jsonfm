@@ -1,14 +1,11 @@
+Hello 👋  
 
-# Hi 👋, I'm Jason  
-### Software Developer & Data Scientist 🇪🇨  
+I’m Jason, a software developer.  
 
-I am a **Software Developer and Data Scientist** with expertise in **software development, data science, and artificial intelligence**. My experience spans **web, mobile, and AI-driven projects**. I'm interested in solving problems using technology and learning about mathematics and economics.
+Currently developing web applications and working with Python.  
 
-### ⚒️ Technical Focus  
-- **Programming:** Python, Node.js  
-- **Frontend & Mobile:** React, React Native, Next.js  
+Exploring AI and its use cases.
 
-### 🔗 Connect with Me  
-<a href="https://linkedin.com/in/jason-francisco-macas-mora-47b938141" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="40"/>
-</a>  
+
+find me on:
+* [LinkedIn](https://linkedin.com/in/jsonfm)
